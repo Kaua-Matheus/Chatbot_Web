@@ -1,0 +1,9 @@
+.vennv
+.vennv/
+
+.__pycache__
+.__pycache__/
+
+.env
+
+package-lock.json
