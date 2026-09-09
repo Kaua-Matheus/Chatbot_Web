@@ -4,4 +4,5 @@ O projeto utiliza fastapi para a aplicação backend, juntamente com a bibliotec
 Para o frontend é utilizado typescript por conta da sua versatilidade e nele é construida todas as ferramentas necesssárias para possibilitar a utilização dos recursos disponibilizados pela API backend.
 
 # Demo
-No arquivo
+No arquivo "demo.png" existe um exemplo da utilização da aplicação.
+![demonstrativo do aplicativo](demo.png)
